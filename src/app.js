@@ -42,6 +42,7 @@ const buildPlayers = (players, type) => {
 
     // Instead of using for loop
     // Use chaining of Array methods - filter, map and join
+    // Type your code here
 
     return fragment;
 }
