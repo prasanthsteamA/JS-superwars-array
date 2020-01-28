@@ -70,4 +70,4 @@ template as below and _return that HTML template_.
 
 ## Expected Output
 
-![Superwars](doc/superwar-css.png)
+![Superwars](doc/superwars-array.png)
